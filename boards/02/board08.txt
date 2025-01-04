@@ -1,0 +1,23 @@
+[48;5;22m
+[48;5;52m
+5 4
+
+
+
+----------------------
+|TTTT       WWWW   T |
+|T  I    I WWWOOOOO  |
+|T         WWWO   O  |
+|T     I   WWW! S O  |
+|  I     I WWWO   O  |
+| T   I    WWWOOOOO  |
+|  TbO%OTT WWWT      |
+|  T O OTT WWW TTTTT |
+| TT O*OTTWWW TT  TT |
+|TTTTOPOTTWWWTTTT TTT|
+|TTTTOOO TWWW TTTTTTT|
+|TT TT TTTWWW TTT TTT|
+|T  T TT  WWWTT TT TT|
+|TT TT  T WWWT TTT  T|
+| T  T    WWW     T  |
+----------------------

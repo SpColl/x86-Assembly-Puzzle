@@ -1,0 +1,23 @@
+[48;5;22m
+[48;5;243m
+5 4
+Every 10th level introduces a new theme with new puzzle pieces.
+You will need to figure out how they interact with old puzzle pieces.
+
+----------------------
+|TTTT       WWW    T |
+|T  R      WWW       |
+|T         WWW       |
+|T       R WWW  S    |
+|  R       WWW       |
+| T   R    WWW       |
+|  TT   TT WWWT      |
+|  T   TTT WWW TTTTT |
+| TT TTTTTWWW TT  TT |
+|TTTTTTTTTWWWTTTT TTT|
+|TTTTT T TWWW TTTTTTT|
+|TT TT TTTWWW TTT TTT|
+|T  T TT  WWWTT TT TT|
+|TT TT  T WWWT TTT  T|
+| T  T    WWW     T  |
+----------------------

@@ -1,0 +1,23 @@
+[48;5;22m
+[48;5;101m
+5 4
+White rocks can be pushed in rows.
+
+
+----------------------
+|TTTT      WWWWW   T |
+|T       TWWWWW      |
+|T      IIWWWWW      |
+|T     IIIWWWWW S    |
+|     III WWWWW      |
+| T     T WWWWW      |
+|  TT   T WWWWW      |
+|  T   TTWWWWW TTTTT |
+| TT TTTTWWWWWTT  TT |
+|TTTTTTTTWWWWWTTT TTT|
+|TTTTT T WWWWWTTTTTTT|
+|TT TT TTWWWWWTTT TTT|
+|T  T TT WWWWWT TT TT|
+|TT TT  TWWWWW TTT  T|
+| T  T   WWWWW    T  |
+----------------------

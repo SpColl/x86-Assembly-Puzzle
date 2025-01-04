@@ -1,0 +1,23 @@
+[48;5;8m
+[48;5;101m
+5 8
+The object of the game is to walk to the staircase in each game stage. 
+Use W, A, S, D to move and push the rocks. Push X to exit.
+If you make a mistake, press backspace to reset the board.
+----------------------
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TT       TTTT     TT|
+|TT   R   R R      TT|
+|TT   e L R R   S  TT|
+|TT   e   R R      TT|
+|TT   W   TTTT     TT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+----------------------

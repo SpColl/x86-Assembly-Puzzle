@@ -1,0 +1,23 @@
+[48;5;8m
+[48;5;22m
+5 8
+You can use an object to hold open a door.
+
+
+----------------------
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TT     T    T     TT|
+|TT     T    T     TT|
+|TT b   % R  *  S  TT|
+|TT     T    T     TT|
+|TT     T    T     TT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+----------------------

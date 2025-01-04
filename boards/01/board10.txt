@@ -1,0 +1,23 @@
+[48;5;8m
+[48;5;22m
+9 8
+If you make a mistake and don't want to start over, you can
+press / to undo your moves.
+
+----------------------
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|T   TGT    TBT    TT|
+|T RR*PP  R T T    TT|
+|T   T      T ! S  TT|
+|T  R%PP    ^ T    TT|
+|T   T T   GT T    TT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+|TTTTTTTTTTTTTTTTTTTT|
+----------------------
